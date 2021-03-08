@@ -1,0 +1,12 @@
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\Margen3\Margen3\bin\Debug\Margen3.exe.config
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\Margen3\Margen3\bin\Debug\Margen3.exe
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\Margen3\Margen3\bin\Debug\Margen3.pdb
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\Margen3\Margen3\bin\Debug\Margen3.xml
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\Margen3\Margen3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\Margen3\Margen3\obj\Debug\Margen3.AboutBox1.resources
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\Margen3\Margen3\obj\Debug\Margen3.Form1.resources
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\Margen3\Margen3\obj\Debug\Margen3.Resources.resources
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\Margen3\Margen3\obj\Debug\Margen3.vbproj.GenerateResource.Cache
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\Margen3\Margen3\obj\Debug\Margen3.exe
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\Margen3\Margen3\obj\Debug\Margen3.xml
+C:\Users\cesarmarcano\Documents\Visual Studio 2008\Projects\Margen3\Margen3\obj\Debug\Margen3.pdb
